@@ -129,4 +129,4 @@ amacıyla geliştirilmiştir.
 
 # 👨‍💻 Geliştirici
 
-**Mümin Tekdemir****Dilara Evcioğlu****Yasin Bekyurt**
+**Mümin Tekdemir**,**Dilara Evcioğlu**,**Yasin Bekyurt**
