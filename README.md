@@ -32,6 +32,8 @@ Kullanıcılar ürün seçerek farklı mağazalardaki fiyatları listeleyebilir 
 
 Kullanıcı ürün seçerek fiyat karşılaştırması yapabilir.
 
+![Ana Sayfa](images/anasayfa.png)
+
 <img width="100%" src="images/anasayfa.png">
 
 ---
