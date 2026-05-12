@@ -8,14 +8,12 @@ Kullanıcılar ürün seçerek farklı mağazalardaki fiyatları listeleyebilir 
 
 # 🚀 Proje Özellikleri
 
-✅ Dinamik ürün arama sistemi
-✅ Mağazalara göre fiyat karşılaştırma
-✅ En ucuz fiyatı otomatik yeşil gösterme
-✅ Responsive ve modern tasarım
-✅ Hover efektleri
-✅ Select2 destekli gelişmiş dropdown sistemi
-✅ PHP & MySQL veritabanı bağlantısı
-✅ Kullanıcı dostu arayüz
+✅ Dinamik ürün arama sistemi <br></br>
+✅ Mağazalara göre fiyat karşılaştırma<br></br>
+✅ En ucuz fiyatı otomatik yeşil gösterme<br></br>
+✅ Responsive ve modern tasarım<br></br>
+✅ PHP & MySQL veritabanı bağlantısı<br></br>
+✅ Kullanıcı dostu arayüz<br></br>
 
 ---
 
