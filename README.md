@@ -32,7 +32,7 @@ Kullanıcılar ürün seçerek farklı mağazalardaki fiyatları listeleyebilir 
 
 Kullanıcı ürün seçerek fiyat karşılaştırması yapabilir.
 
-<img width="100%" src="images/anasayfa.png">
+<img width="100%" src="anasayfa.png">
 
 ---
 
@@ -40,7 +40,7 @@ Kullanıcı ürün seçerek fiyat karşılaştırması yapabilir.
 
 Seçilen ürünün farklı mağazalardaki fiyatları listelenir ve en uygun fiyat yeşil renkle gösterilir.
 
-<img width="100%" src="images/sonuc.png">
+<img width="100%" src="sonuc.png">
 
 ---
 
