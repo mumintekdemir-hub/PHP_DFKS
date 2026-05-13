@@ -50,14 +50,16 @@ Seçilen ürünün farklı mağazalardaki fiyatları listelenir ve en uygun fiya
 fiyat_sitesi/
 │
 ├── index.html
+├── index.css
 ├── sonuc.php
+├── sonuc.css
 ├── baglanti.php
 ├── images/
 │   ├── anasayfa.png
 │   └── sonuc.png
 └── README.md
-```
 
+```
 ---
 
 
