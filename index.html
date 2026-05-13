@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="tr">
+<head>
+    <meta charset="UTF-8">
+    <title>Fiyat Karşılaştırma</title>
+
+   <link rel="stylesheet" href="index.css">
+   
+
+</head>
+<body>
+
+<div class="container">
+    <h2>🔍 Ürün Arama</h2>
+
+ <form action="sonuc.php" method="GET">
+
+<input list="urunler" name="arama" placeholder="Ürün seç veya ara" required>
+
+<datalist id="urunler">
+    <option value="iPhone 13">
+    <option value="iPhone 14">
+    <option value="Samsung S22">
+    <option value="Samsung S23">
+    <option value="Xiaomi Redmi Note 12">
+    <option value="Xiaomi Redmi Note 11">
+    <option value="Huawei P40">
+</datalist>
+
+    <br><br>
+
+    <button type="submit">Karşılaştır</button>
+
+</form>
+</div>
+
+</body>
+</html>
