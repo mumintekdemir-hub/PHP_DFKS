@@ -68,15 +68,13 @@
 
 </head>
 <body>
-<link href="https://cdn.jsdelivr.net/npm/select2@4.1.0-rc.0/dist/css/select2.min.css" rel="stylesheet" />
-<script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
-<script src="https://cdn.jsdelivr.net/npm/select2@4.1.0-rc.0/dist/js/select2.min.js"></script>
+
 <div class="container">
-    <h2>🔍 Ürün Arama </h2>
+    <h2>🔍 Ürün Arama</h2>
 
    <form action="sonuc.php" method="GET">
 
-    <select name="arama" id="urunSec" required style="width: 250px;">
+    <select name="arama" required>
         <option value="">Ürün seç</option>
         <option value="iPhone 13">iPhone 13</option>
         <option value="iPhone 14">iPhone 14</option>
@@ -86,19 +84,9 @@
         <option value="Xiaomi Redmi Note 11">Xiaomi Redmi Note 11</option>
         <option value="Huawei P40">Huawei P40</option>
     </select>
-    <br></br>
- <button type="submit">Karşılaştır</button>
-</form>
-<script>
-$(document).ready(function() {
-    $('#urunSec').select2({
-        placeholder: "Ürün seç",
-        allowClear: true
-    });
-});
-</script>
 
-    
+    <br><br>
+    <button type="submit">Karşılaştır</button>
 
 </form>
 </div>
